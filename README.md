@@ -18,6 +18,7 @@ Hướng dẫn chi tiết nằm trong file `HUONG_DAN_SU_DUNG.txt` đi kèm.
 
 ## Tính năng
 
+- **Nhập tất cả Page bằng 1 token doanh nghiệp** – dán token người dùng hệ thống, tool lấy hết Page kèm token; token Page hết hạn thì tự lấy lại.
 - **Nhiều tab trong 1 cửa sổ** – mỗi tab chọn 1 Page, chạy song song, quy trình riêng.
 - **Đăng ngay** (giãn cách ngẫu nhiên, tạm dừng / dừng, đăng lại hàng lỗi) hoặc **hẹn giờ**.
 - Nạp bài từ **Excel**, dán thẳng từ Excel, hoặc chọn **thư mục video**; hỗ trợ **link TikTok** (tự tải, lỗi thì thử lại 3 lần).
